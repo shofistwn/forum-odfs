@@ -1,0 +1,7 @@
+Admin Default Access:
+Username: admin
+Password: admin123
+
+Sample User Access:
+Username: mcooper
+Password: mcooper123
